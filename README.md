@@ -20,7 +20,7 @@ Pri dnu prozora imamo opcije za promjenu layouta, tj broj prikazanih redova i st
 
 ![2](https://user-images.githubusercontent.com/89515896/151012368-c662610c-16fb-435c-bbf0-006610d5244a.png)
 
-Primjer delete funkcije, i promjene layouta (5 stupaca, 2 retka). Ukoliko korisnik sada stisne na tipku otvoriti će se novi prozor u kojem mora potvrditi brisanje.
+Primjer delete funkcije i promjene layouta (5 stupaca, 2 retka). Ukoliko korisnik sada stisne na tipku otvoriti će se novi prozor u kojem mora potvrditi brisanje.
 
 ![3](https://user-images.githubusercontent.com/89515896/151012487-730df8e5-5d40-435f-9f6d-56bcde0f4ffc.png)
 
